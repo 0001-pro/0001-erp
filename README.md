@@ -6,7 +6,7 @@
 
 The system was independently designed and developed by the author and has been used in real business environments for many years.
 
-Website: https://0001.pro/erp/
+Website: https://0001.pro/archive/erp/
 
 ## Overview
 
@@ -66,7 +66,7 @@ The source code is not yet published in this repository.
 - Developer: **0001.pro**
 - Category: Business software / ERP
 - Focus: Wholesale trade and warehouse management
-- Website: https://0001.pro/erp/
+- Website: https://0001.pro/archive/erp/
 
 ---
 
